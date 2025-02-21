@@ -1,7 +1,7 @@
 ---
 title: "Deep Collocative Learning for Immunofixation Electrophoresis Image Analysis"
 collection: publications
-date: 2021
+date: 2021-1-1
 venue: 'IEEE Transactions on Medical Imaging'
 paperurl: 'https://ieeexplore.ieee.org/document/9385115'
 citation: 'Xiao-Yong Wei, Zhen-Qun Yang, Xu-Lu Zhang, et al., (2021). &quot;Deep Collocative Learning for Immunofixation Electrophoresis Image Analysis.&quot; <i>TMI</i>.'
