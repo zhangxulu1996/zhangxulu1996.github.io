@@ -9,3 +9,4 @@ excerpt: "Framework illustration.<br/><img src='/images/paper1_fig.jpg'>"
 ---
 
 We proposed a new method called collocative learning, in which a collocative tensor has been constructed to transform binary relations into unary relations that are compatible with conventional deep networks, and a location-label-free method that utilizes Grad-CAM saliency maps for evidence backtracking has been proposed for accurate localization. In addition, we have proposed Coached Attention Gates that can regulate the inference of the learning to be more consistent with human logic and thus support the evidence backtracking.
+<img src='/images/paper1_fig.jpg'>
