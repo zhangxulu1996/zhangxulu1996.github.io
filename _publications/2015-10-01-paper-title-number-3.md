@@ -2,7 +2,7 @@
 title: "Compositional inversion for stable diffusion models"
 collection: publications
 category: manuscripts
-date: 2024
+date: 2024-1-1
 venue: 'AAAI'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/28565'
 citation: 'Xulu Zhang et al., (2024). &quot;Compositional inversion for stable diffusion models.&quot; <i>AAAI</i>.'
