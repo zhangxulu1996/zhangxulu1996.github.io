@@ -2,7 +2,7 @@
 title: "A Survey on Personalized Content Synthesis with Diffusion Models"
 collection: publications
 category: conferences
-date: 2024
+date: 2024-1-1
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2405.05538'
 citation: 'Xulu Zhang, et al., (2024). &quot;A Survey on Personalized Content Synthesis with Diffusion Models.&quot; <i>Arxiv</i>.'
