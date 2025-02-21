@@ -2,7 +2,7 @@
 title: "Generative active learning for image synthesis personalization"
 collection: publications
 category: conferences
-date: 2024
+date: 2024-1-1
 venue: 'ACM MM 2024'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4UqJoGMAAAAJ&citation_for_view=4UqJoGMAAAAJ:2osOgNQ5qMEC'
 citation: 'Xulu Zhang, et al., (2024). &quot;Generative active learning for image synthesis personalization.&quot; <i>ACM MM</i>.'
