@@ -2,7 +2,7 @@
 title: "Identifying the kind behind SMILES—anatomical therapeutic chemical classification using structure-only representations"
 collection: publications
 category: manuscripts
-date: 2022
+date: 2022-1-1
 venue: 'Briefings in Bioinformatics'
 paperurl: 'https://academic.oup.com/bib/article/23/5/bbac346/6677124'
 citation: 'Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang, et al., (2022). &quot;Identifying the kind behind SMILES—anatomical therapeutic chemical classification using structure-only representations.&quot; <i>Briefings in Bioinformatics</i>.'
